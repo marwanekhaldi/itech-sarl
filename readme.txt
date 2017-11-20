@@ -1,51 +1,33 @@
-################################################################################################
-
-Documentation for Agency Theme by Bootstrapious - http://bootstrapious.com, rel. 2015/04/10
-
-################################################################################################
-
-Hi,
-
-thank you for downloading. Have fun and tell your friends about us ;)
-
-Ondrej from Bootstrapious
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CSS
-----------
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
 
-The theme stylesheet is css/style.default.css. If you want to make any changes, you can do it here or better to override it in custom.css so you can update the original theme stylesheet if an updated is released. If you want to change colour theme, change the CSS path in the <head> to e.g. css/style.red.css.
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Javascript
-----------
+(* = not included)
 
-Apart from Bootstrap JS components majority of JS is located in /js/front.js. If you want to make any js settings finetuning, you can do it here.
-
-Credits
----------
-
-- Botstrap 3.3.2
-- Font Awesome 4.3.0
-- Google Fonts - Roboto Condensed and Open Sans
-- Heisengberg Media - intro photo
+AJ
+aj@lkn.io | @ajlkn
 
 
----------------------
- LICENSE CONDITIONS
----------------------
+Credits:
 
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to us and our partner. 
+	Demo Images:
+		Unsplash (unsplash.com)
 
-If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate) to support themes' development. Suggested amount per template is $10.
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-However you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g. selling it on template marketplace).
-
-Thank you for understanding and respecting the license conditions.
-
-If more info needed, contact me at hello@bootstrapious.com.
-
----------------------
- GET IN TOUCH ;)
----------------------
-
-https://twitter.com/bootstrapious | https://google.com/+Bootstrapious1 | https://www.facebook.com/bootstrapious | hello@bootstrapious.com
+	Other:
+		jQuery (jquery.com)
+		Misc. Sass functions (@HugoGiraudel)
+		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
